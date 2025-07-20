@@ -1,13 +1,10 @@
-# Ignore everything by default
-*
+# Ignore PlatformIO build and temporary files
+.pio/
+.vscode/
 
-# But keep these root files
-!/.gitignore
-!/README.md
-!/journal.md
+# Ignore common OS files
+.DS_Store
 
-# And keep these entire directories and their contents
-!/production/
-!/cad/
-!/src/
-!/pcb/
+# Ignore other common files you might not want
+# For example, Python virtual environments
+# venv/
