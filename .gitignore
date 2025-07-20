@@ -8,3 +8,8 @@
 # Ignore other common files you might not want
 # For example, Python virtual environments
 # venv/
+
+# Ignore PlatformIO and other project-specific files
+platformio.ini
+test/
+include/
