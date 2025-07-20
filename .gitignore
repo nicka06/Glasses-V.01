@@ -1,21 +1,12 @@
-// filepath: /Users/nickalkema/Documents/PlatformIO/Projects/BasicBlinkTest/.gitignore
-#
-# Default .gitignore for PlatformIO projects
-#
-.pio/
-.vscode/
-.DS_Store
+# Ignore everything by default
+*
 
-#
-# Keep these root files
-#
+# But keep these root files
 !/.gitignore
 !/README.md
 !/journal.md
 
-#
-# Keep these entire directories
-#
+# And keep these entire directories and their contents
 !/production/
 !/cad/
 !/src/
