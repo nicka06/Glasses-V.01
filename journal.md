@@ -29,3 +29,15 @@ I have a feeling that the firmware won't be that bad (famous last words). In any
 
 7/18/2025
 Today, I continued to look through the work that I've done this far to confirm what I wanted to do with the firmware exactly. I came up with teh exact processes that I wanted to use and now that I have that, I started to work on the firmware. Tomorrow, I'll finish the rest of the firmware and submit the project.
+
+
+
+
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 04 41 PM" src="https://github.com/user-attachments/assets/161e407c-0511-4ba0-bb59-9fcdc9968cdf" />
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 15 24 PM" src="https://github.com/user-attachments/assets/06993bbb-059e-400f-8e58-78194d2ddf48" />
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 17 02 PM" src="https://github.com/user-attachments/assets/98919ce9-5755-4c6d-ad2d-5b50a88e6bd9" />
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 17 30 PM" src="https://github.com/user-attachments/assets/41f31b98-4078-4ea4-b755-15b05205c0dc" />
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 17 45 PM" src="https://github.com/user-attachments/assets/f2bb3a3d-838f-4b1e-8af4-fdc341609ae2" />
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 18 14 PM" src="https://github.com/user-attachments/assets/ac2547f7-cd41-43e3-a314-9d78a7b83f69" />
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 18 28 PM" src="https://github.com/user-attachments/assets/7fe30574-f333-4bd4-a001-7b66f604bcb6" />
+<img width="1512" height="982" alt="Screenshot 2025-07-20 at 12 19 34 PM" src="https://github.com/user-attachments/assets/cef34b3f-0a80-44b2-8555-6bde88b84cf2" />
