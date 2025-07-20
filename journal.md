@@ -1,3 +1,7 @@
+title: "Audio Glasses"
+author: "Nick"
+description: "Smart glasses that connect to wifi and allow you to essentially use smart siri on your glasses"
+created_at: "2024-07-18"
 7/18/2025
 --Unforunately, I did not read through the requirements and only sumbitted a hackpad thus far which led me to believe there was no journal portion. Thus, when I'm nearing the end of the project, I finally decide to make the journal. 
 Although this is a bit disappointing, I'll do my best to recall what I have done thus far and lay it out in chronolocial order. Then, I'll add my future journals here as well. 
