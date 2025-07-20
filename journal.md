@@ -22,3 +22,6 @@ the strucuture of glasses. It's worth acknowledging that in this iteration, I ma
 that when I begin working on this project next time, I do the opposite. I start with a really nice frame and shape for glasses and then work on the hardware to make it fit within the nice frame and size. Now, what I have
 left to do as I'm writing this is to upload all of the information to the github, spend some time to slice some of the hardware so that I can assemble it once I get the components and then begin working on the firmware tommorow. 
 I have a feeling that the firmware won't be that bad (famous last words). In any case, I'll give that a shot and upload all of that information tomorrow. (Also for the images, I'll post those all at the end). 
+
+7/18/2025
+Today, I continued to look through the work that I've done this far to confirm what I wanted to do with the firmware exactly. I came up with teh exact processes that I wanted to use and now that I have that, I started to work on the firmware. Tomorrow, I'll finish the rest of the firmware and submit the project.
