@@ -1,0 +1,14 @@
+// filepath: /Users/nickalkema/Documents/PlatformIO/Projects/BasicBlinkTest/.gitignore
+# Ignore everything by default
+*
+
+# But not these files
+!/.gitignore
+!/README.md
+!/journal.md
+
+# And not these directories or their contents
+!/production/
+!/cad/
+!/src/
+!/pcb/
