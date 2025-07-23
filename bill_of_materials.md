@@ -26,3 +26,6 @@ Switch Button,TL3315NF160Q,1,https://www.snapeda.com/parts/TL3315NF160Q/E-Switch
 ,,,,,,
 ,,,,,,
 ,,,,,,56.08
+<img width="1512" height="982" alt="Screenshot 2025-07-23 at 1 39 10 PM" src="https://github.com/user-attachments/assets/19e404eb-5ad3-4fb8-b6e9-82e9b86d779e" />
+<img width="1512" height="982" alt="Screenshot 2025-07-23 at 1 37 39 PM" src="https://github.com/user-attachments/assets/4d727292-0470-461d-a78c-5a31afe0c593" />
+
