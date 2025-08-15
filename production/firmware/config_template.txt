@@ -1,0 +1,5 @@
+// Update these values in main_openai.cpp:
+
+const char* ssid = "Your_WiFi_Network";
+const char* password = "Your_WiFi_Password";
+const char* openai_api_key = "sk-your-actual-openai-api-key-here";
